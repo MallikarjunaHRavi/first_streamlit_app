@@ -76,6 +76,7 @@ def insert_row_snowflake(new_fruit):
           #return 'Thanks for adding' + new_fruit
 #fruits = ["jackfruit", "papaya", "guava", "kiwi"]    
 
+# if you are declaring a variable then use the above one and let the for loop do the work
 #for fruit in fruits:
     #insert_row_snowflake(fruit)
 
